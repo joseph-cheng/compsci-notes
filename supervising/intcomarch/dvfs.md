@@ -1,0 +1,3 @@
+Dynamic voltage frequency scaling (DVFS) is a technique that dynamically varies the [[clock-frequency|clock frequency]] that trades off power consumption for performance.
+
+According to processor load, we can dynamically increase the supply voltage to increase performance (since frequency is proportional to voltage), and decrease the supply voltage to decrease power consumption (for example if a laptop switches to using battery power).

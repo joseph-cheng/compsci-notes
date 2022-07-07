@@ -1,0 +1,1 @@
+A harvard architecture is similar to a [[von-neumann-architecture|von Neumann architecture]], but have instruction and data memories separated. This allows for parallel access to instructions and data.
