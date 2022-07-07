@@ -1,0 +1,1 @@
+Pipelining is a technique in computer architecture that aims to increase performance by reducing the length of the [[critical-path|critical path]] (and thus allowing for an increase in [[clock-frequency|clock frequency]]), as well as increasing [[instruction-level-parallelism|instruction-level parallelism]] by executing different parts of different instructions simultaneously.
