@@ -1,0 +1,3 @@
+A pipeline stage is a part of the pipeline that executes entirely in one clock cycle.
+
+Traditionally, like in the [[5-stage-mips-pipeline|5-stage MIPS pipeline]], a pipeline stage might be something like 'fetch the instruction' or 'decode an instruction', but more modern, [[pipeline-depth|deeper]] pipelines, have much more granular pipeline stages, often made be splitting existing stages into smaller stages (e.g. the Pentium 4 has two stages for instruction fetch).

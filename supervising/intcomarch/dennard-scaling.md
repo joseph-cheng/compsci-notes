@@ -6,6 +6,6 @@ Dennard scaling was a property first noticed in 1974, which is given by the foll
 
 So, for the same area, transistor density doubles, speed increases by 40%, and power consumption remains the same, which means that just by improving the technology node, we can get a 40% free speed-up along with the extra transistors.
 
-However, in 2006, this broke down once the transistors became so small that their [[transistor-power-consumption|power leakage]] became dominant.
+However, in 2006, this broke down once the transistors became so small that their [[transistor-power-consumption|power leakage]] became dominant. This is because factors like static power leakage and transistor threshold voltage do not scale with transistor dimensions like the rest of the factors.
 
 This meant that we could no longer increase the clock frequency and keep power consumption constant, so we must instead rely on performance increases from utilising the extra transistors.
