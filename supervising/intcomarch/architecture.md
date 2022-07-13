@@ -1,0 +1,3 @@
+The architecture of a processor refers to the parts of the design that are visible to the programmer/user/compiler. For example, the [[isa|instruction set architecture]] tells us what instructions are available and how they are encoded. Information like the number of addressable registers are part of the architecture.
+
+This contrasts with the [[micro-architecture]] which refers to parts of the design that are not immediately visible to the programmer/user/compiler.

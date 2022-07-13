@@ -1,0 +1,1 @@
+The [[yield]] of a fabrication process corresponds to the percentage of usable dies that remain out of the total dies created from a wafer. Dies become unusable due to defects, which can arise from anomalies like dust, impurities, too much/too little doping. By manufacturing smaller chips, the percentage of chips without defects will increase.

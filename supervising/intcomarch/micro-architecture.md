@@ -1,0 +1,3 @@
+The micro-architecture of a processor refers to parts of the design that are not visible to the end user, and how the [[architecture]] is actually implemented. For example, the [[pipeline-depth|pipeline depth]] is not visible to the user, and cache sizes are not either, they simply get the abstraction that instructions are executed in program order, and data is retrieved from somewhere in memory, for example.
+
+Parts of the micro-architecture, like the number of physical registers, might seem like they directly correspond to parts of the architecture, like the number of addressable registers, but this is not always the case. In this example, we use [[register-renaming|register renaming]] to distinguish the two.
